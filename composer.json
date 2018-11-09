@@ -1,0 +1,10 @@
+{
+  "name": "spryker-feature/payments",
+  "description": "Payments [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  }
+}
