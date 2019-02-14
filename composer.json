@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker/payment": "^4.4.0"
+    "spryker/payment": "^4.5.0"
   },
   "extra": {
     "branch-alias": {
