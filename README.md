@@ -7,3 +7,6 @@ You can integrate several different payment gateways, including Amazon Pay, PayP
 ```
 composer require spryker-feature/payments
 ```
+
+## Optional modules
+- [PaymentsRestApi](https://github.com/spryker/payments-rest-api) (Glue)
