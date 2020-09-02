@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/payment": "^5.0.0",
+    "spryker/payment": "^5.3.0",
     "spryker/payment-data-import": "^1.0.0",
     "spryker/payment-gui": "^1.0.0"
   },
