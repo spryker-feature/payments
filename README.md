@@ -9,4 +9,5 @@ composer require spryker-feature/payments
 ```
 
 ## Optional modules
+- [PaymentExtension ^1.0.0](https://github.com/spryker/payment-extension) (Extension)
 - [PaymentsRestApi](https://github.com/spryker/payments-rest-api) (Glue)
