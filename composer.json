@@ -1,19 +1,19 @@
 {
-  "name": "spryker-feature/payments",
-  "description": "Payments [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/payment": "^5.3.0",
-    "spryker/payment-data-import": "^1.0.0",
-    "spryker/payment-gui": "^1.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/payments",
+    "description": "Payments [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/payment": "^5.3.0",
+        "spryker/payment-data-import": "^1.0.0",
+        "spryker/payment-gui": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
