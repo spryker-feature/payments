@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.4",
-        "spryker-shop/payment-page": "^1.0.0",
-        "spryker/payment": "^5.4.0",
+        "spryker-shop/payment-page": "^1.1.0",
+        "spryker/payment": "^5.6.0",
         "spryker/payment-data-import": "^1.0.0",
-        "spryker/payment-gui": "^1.1.0"
+        "spryker/payment-gui": "^1.2.0"
     },
     "extra": {
         "branch-alias": {
