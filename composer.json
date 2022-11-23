@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.4",
         "spryker-shop/payment-page": "^1.2.0",
         "spryker/payment": "^5.10.0",
         "spryker/payment-data-import": "^1.0.0",
