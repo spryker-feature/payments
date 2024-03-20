@@ -10,11 +10,12 @@
         "spryker-shop/payment-page": "^1.3.0",
         "spryker/payment": "^5.15.0",
         "spryker/payment-data-import": "^1.0.0",
-        "spryker/payment-gui": "^1.3.0"
+        "spryker/payment-gui": "^1.3.0",
+        "spryker/sales-payment-detail": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202311.x-dev"
+            "dev-master": "202403.x-dev"
         }
     }
 }
